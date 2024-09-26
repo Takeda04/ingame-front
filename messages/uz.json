@@ -1,0 +1,708 @@
+{
+  "Services": {
+    "title": "Xizmatlar",
+    "1": {
+      "name": "Ekspert tashrifi va diagnostika",
+      "description": "Kompyuterning nosozliklarini joyida diagnostika qilish."
+    },
+    "2": {
+      "name": "Asosiy kirish/chiqish tizimi (BIOS) konfiguratsiyasi muammolarini bartaraf etish",
+      "description": "BIOS muammolarini sozlash va muammolarni bartaraf etish."
+    },
+    "3": {
+      "name": "BIOS yangilanishi",
+      "description": "BIOS proshivkasini so'nggi versiyasiga yangilash."
+    },
+    "4": {
+      "name": "Dasturchida BIOS yangilanish",
+      "description": "Dasturchi yordamida BIOS-ni yaxshilash"
+    },
+    "5": {
+      "name": "Onaplata , korpusni o'rnatish yoki almashtirish",
+      "description": "Yangi onaplata va kompyuter korpusini almashtirish yoki o'rnatish."
+    },
+    "6": {
+      "name": "Changni tozalash, termal pastani almashtirish, quvvat manbai sovutish tizimini moylash",
+      "description": "Kompyuter komponentlarini changdan tozalash, protsessordagi termal pastani almashtirish, sovutish tizimini moylash, shu jumladan elektr ta'minoti (shu jumladan sarflangan materiallari narxi)."
+    },
+    "7": {
+      "name": "Video kartani sovutish tizimini tozalash va saqlash",
+      "description": "Video kartani sovutish tizimini tozalash, termal prokladkalarni almashtirish, video kartani sovutish tizimini moylash (sarflanadigan materiallar narxini o'z ichiga olgan holda)."
+    },
+    "8": {
+      "name": "Sovutish tizimini to'liq tozalash",
+      "description": "Korpusni sovutish tizimini, protsessorni, video kartani va elektr ta'minotini har tomonlama tozalash, shu jumladan termal pasta va termal prokladkalarni almashtirish (shu jumladan sarf materiallari narxi)."
+    },
+    "9": {
+      "name": "Vaqtinchalik fayllarni o'chirish, ro'yxatga olish papkasini tozalash, viruslarni yo'q qilish, tizimni tiklash",
+      "description": "Vaqtinchalik fayllar tizimini tozalash, ro'yxatga olish papkasini tozalash, viruslarni yo'q qilish, viruslar tomonidan shikastlangan tizimni tiklash, drayverlarni o'rnatish (vaqt 2 soatda)."
+    },
+    "10": {
+      "name": "Video karta quvvat tizimini ta'mirlash, video karta BIOS-ni yangilash",
+      "description": "Video karta quvvat davrlarini ta'mirlash, video karta BIOS-ni miltillash."
+    },
+    "11": {
+      "name": "Elektr ta'minotining oldini olish",
+      "description": "Elektr ta'minotini changdan tozalash, sovutish tizimini moylash, diagnostika qilish va 2 tagacha kondensatorni almashtirish, kontaktlarning zanglashiga olib keladigan quvvat elementlarini  tiklash."
+    },
+    "12": {
+      "name": "600 Vt gacha bo'lgan elektr ta'minotini ta'mirlash",
+      "description": "600 Vtgacha bo'lgan quvvat manbalarini ta'mirlash, shu jumladan kondensatorlar narxi ichida (profilaktika bepul)."
+    },
+    "13": {
+      "name": "Kompyuterni demontaj qilish/montaj qilish (agar ta'mirlash rad etilsa)",
+      "description": "Keyingi ta'mirlashdan bosh tortgan taqdirda shaxsiy kompyuterni qismlarga ajratish va qayta yig'ish uchun to'lov."
+    },
+    "14": {
+      "name": "Reboll GPU",
+      "description": "Reballing usuli yordamida GPU kontaktlarini tiklash."
+    },
+    "15": {
+      "name": "Unutilgan parollarni tiklash",
+      "description": "Agar parollar unutilgan bo'lsa, tizimga kirishni tiklash."
+    },
+    "16": {
+      "name": "Issiqlik pastasini tozalash, moylash va almashtirish bilan sovutish tizimining oldini olish",
+      "description": "Sovutish tizimini profilaktik tozalash, fanatlarni moylash va protsessorda termal pastani almashtirish."
+    },
+    "17": {
+      "name": "Qattiq diskni almashtirish",
+      "description": "Eski qattiq diskni yangisiga almashtirish."
+    }
+  },
+  "FAQ": {
+    "title": "Ko'p so'raladigan savollar",
+    "1": {
+      "question": "Buyurtmani narxini qanday to'lashim mumkin?",
+      "answer": "To'lov usullari:<br/>--ofisda naqd pul yoki bank kartasi orqali to'lash;<br/>--uuridik shaxslarni o'tkazish yo'li bilan to'lash;<br/>--onlayn kreditlash xizmatlaridan foydalangan holda to'lov."
+    },
+    "2": {
+      "question": "Toshkent shahri aholisi oldindan to‘lovni amalga oshirishi kerakmi?",
+      "answer": "30% oldindan toʻlov talab qilinadi:<br/>--kompyuterlar<br/>--noutbuklar<br/>--mebel"
+    },
+    "3": {
+      "question": "Chegirmalar bormi?",
+      "answer": "Kompaniyamiz takroriy xaridlar uchun, shuningdek, ikki yoki undan ortiq kompyuterga buyurtma berish uchun individual shartlarni qo'llaydi. Bonus yoki chegirma miqdori buyurtmani tasdiqlashda menejer bilan kelishiladi."
+    },
+    "4": {
+      "question": "Kompyuterni qachon olishim mumkin?",
+      "answer": "Kompyuterning butun ishlab chiqarish tsikli o'rtacha 1-3 kun davom etadi, keyin u sizga bizning kurerlik xizmatimiz yoki inGame kuryerimiz tomonidan yetkaziladi (mijozning joylashgan joyiga qarab). Buyurtmani Toshkentdagi ofisdan ham o'zingiz olishingiz mumkin."
+    },
+    "5": {
+      "question": "Yetkazib berishdan keyin kompyuter/noutbuk o'rnatiladimi va ulanadimi?",
+      "answer": "Kompyuter/noutbukni ulash va o‘rnatish Toshkent shahri va O‘zbekiston viloyati aholisi uchun mavjud. Transport kompaniyalari tomonidan boshqa hududlarga etkazib berilganda, o'rnatish va ulash amalga oshirilmaydi."
+    },
+    "6": {
+      "question": "Qaysi transport kompaniyalari etkazib beradi?",
+      "answer": "Biz quyidagi transport kompaniyalari tomonidan yetkazib beramiz:<br/>--BTS<br/>--Fargo"
+    },
+    "7": {
+      "question": "Kafolat nima?",
+      "answer": "Barcha inGame kompyuterlari kamida 1 yillik kafolatga ega."
+    },
+    "8": {
+      "question": "Kafolat ta'mirlash muddatlari qanday?",
+      "answer": "Kompyuterlar uchun: qoida tariqasida, noto'g'ri komponentlarni diagnostika qilish va almashtirish 45 ish kunidan oshmaydi."
+    },
+    "9": {
+      "question": "Kompyuter narxiga nimalar kiradi?",
+      "answer": "Kompyuterning yakuniy narxiga quyidagi omillar ta'sir qiladi: tanlangan komponentlar va ularning xususiyatlari, tanlangan dasturiy ta'minot, modifikatsiya va moslashtirish, ishlab chiqarish muddati, kafolat va xizmat ko'rsatish muddati, yangilash imkoniyatlari, shuningdek logistika shartlari."
+    },
+    "10": {
+      "question": "Yig'ish va xizmat ko'rsatish uchun belgingiz qanday?",
+      "answer": "Bizda qo‘shimcha to‘lov yo‘q, bizda kafolat va yuqori sifatli inGame kompyuteri narxi bor."
+    },
+    "11": {
+      "question": "Chegirma yoki sovg'a olish mumkinmi?",
+      "answer": "Ikkinchi kompyuterni sotib olganingizdan so'ng siz chegirma/sovg'a olishingiz mumkin bo'ladi. Bizning doimiy mijozlarimiz uchun individual dastur mavjud. U buni shaxsiy menejeri bilan muhokama qiladi."
+    }
+  },
+  "WhyChooseUs": {
+    "title": "Nega bizni tanlaysiz?",
+    "description": "Mijozlarimiz o'zlari sizga bu haqida eng yaxshisini aytib berishadi"
+  },
+  "News": {
+    "title": "Blog va yangiliklar"
+  },
+  "HomeFooter": {
+    "title": "Bitta onlayn qo'ng'iroq bilan biz sizning o'yin tajribangizni butunlay o'zgartiramiz",
+    "description": "Biz qo'ng'iroqni rejalashtiramiz, so'rovlaringiz haqida bilib olamiz va mos konfiguratsiyani taklif qilamiz. Tahlildan so'ng biz kompyuterni qo'llab-quvvatlash va yetkazib berish va yig'ish bilan shug'ullanamiz.",
+    "btn": "Qo'ngiroq qoldirish"
+  },
+  "ContactModal": {
+    "title": "So'rov qoldiring va menejerimiz siz bilan bog'lanadi",
+    "name": "Ismingiz?",
+    "phone": "Telefon raqamingiz",
+    "contact": "Yoki biz bilan bog'laning"
+  },
+  "Footer": {
+    "contacts": "Kontaktlar",
+    "address": "Toshkent shahri, Yunusobod tumani, Kichik halqa yo'li, 50-uy",
+    "socials": "Ijtimoiy tarmoqlar"
+  },
+  "Compare": {
+    "title": "Mahsulotlarni taqqoslash"
+  },
+  "Breadcrumbs": {
+    "main": "Asosiy",
+    "basket": "Savatcha",
+    "services": "Xizmatlar"
+  },
+  "Basket": {
+    "products": "Mahsulot",
+    "availability": "Mavjudligi",
+    "count": "Miqdori",
+    "price": "Narxi",
+    "total": "Jami",
+    "continue": "Davom etish"
+  },
+  "Buttons": {
+    "detail": "Batafsil",
+    "order": "Buyurma",
+    "sendReq": "Ariza qoldirish"
+  },
+  "Currency": {
+    "uzs": "so'm",
+    "usd": "$",
+    "month": "oy"
+  },
+  "Home": {
+    "aboutUs": "Biz haqimizda",
+    "contact": "Aloqa",
+    "catalog": "KATALOG",
+    "catalogDescription": "Eng qulay o'yin uchun katalogdan tanlang",
+    "ourPc": "Bizning PC",
+    "shares": "Aksiya",
+    "novelty": "Yangi elementlar"
+  },
+  "PCCard": {
+    "completeSetting": "Komponentlar",
+    "office": "Ofis uchun",
+    "allin": "Hammasi bittada",
+    "games": "O'yinlar",
+    "creation": "Yaratilish",
+    "streaming": "Striming",
+    "detail": "Batafsil",
+    "addToCard": "Savatcha",
+    "toBack": "Yopish"
+  },
+  "productCard": {
+    "buy": "Sotib olish"
+  },
+  "selectPc": {
+    "title": "Kompyuter tanlash",
+    "atPrice": "Narx bo'yicha",
+    "byVideoCard": "Videokarta bo'yicha",
+    "byProcessor": "Protsessor bo'yicha",
+    "from": "dan",
+    "byGame": "O'yin bo'yicha",
+    "ready": "Tayyor"
+  },
+  "ProductSecondaryCard": {
+    "curr": "so'm"
+  },
+  "Search": {
+    "pagination": {
+      "main": "Bosh sahifa",
+      "searchPage": "Qidiruv"
+    },
+    "searchBtn": "Qidiruv"
+  },
+  "Product": {
+    "pagination": {
+      "main": "Bosh sahifa",
+      "config": "Konfigurator"
+    },
+    "btns": {
+      "buy": "Sotib olish",
+      "toBasket": "Savatga",
+      "reset": "O'chirish"
+    },
+    "readMore": "Ko'proq ko'rish...",
+    "divPay": "Bo'lib to'lash",
+    "shortMnth": "oy",
+    "relatedProd": "O'xshash mahsulotlar",
+    "comments": {
+      "title": "Mijozlarimizning fikrlari",
+      "description": "Mijozlarimiz o'zlari bu haqida sizga eng yaxshini aytib berishadi!"
+    }
+  },
+  "Checkout": {
+    "titles": {
+      "order": "Buyurtma berish",
+      "receive": "Buyurtmani olish usullari",
+      "payMethod": "To‘lov usuli",
+      "comment": "Buyurtmaga izoh"
+    },
+    "placeholders": {
+      "fullName": "F.I.Sh",
+      "phoneNum": "Telefon raqam",
+      "adress": "Yetkazib berish nuqtasi"
+    },
+    "deliveryMethods": {
+      "mebel": {
+        "title": "Mebellarni Toshkent shahri bo‘ylab yetkazib berish",
+        "price": "so'm"
+      },
+      "freeOneDay": {
+        "title": "1 kun ichida yetkazib berish bepul",
+        "desc": "1 kun"
+      },
+      "toRegions": {
+        "title": "Hududlarga yetkazib berish",
+        "desc": "BTS yoki Fargo tezkor pochta tariflari bo‘yicha"
+      }
+    },
+    "count": {
+      "prods": "Mahsulotlar",
+      "deliv": "Yetkazib berish",
+      "overall": "Jami",
+      "sum": "so'm"
+    }
+  },
+  "ServicePages": {
+    "1": {
+      "title": "Kompyuterlarni kuchaytirish",
+      "description": "Bu yerda ko‘p yillik tajribaga ega mutaxassislarimiz sodiq do‘stingizga yangi 'hayot' hadya etadi. Uning texnik xususiyatlari yaxshilanadi, shuningdek, uni sizning xohishingizga ko‘ra zamonaviy va ajralib turadigan qiladi!",
+      "btn": "Yangilanishni buyurtma qilish",
+      "questions": {
+        "1": {
+          "titleFront": "Quvvat muammosi?",
+          "titleBack": "Eskirgan qismlarni almashtiramiz va kompyuter quvvatini oshiramiz"
+        },
+        "2": {
+          "titleFront": "Tizim ishlamayaptimi?",
+          "titleBack": "Butun kompyuterni to‘liq diagnostika qilamiz va mavjud muammolarni bartaraf etamiz"
+        },
+        "3": {
+          "titleFront": "Tashqi ko‘rinish sizga yoqmayaptimi?",
+          "titleBack": "Didingiz va rangingizga qarab dizaynni o‘zgartiramiz. Bo‘yoq, vinilografiya, aerografiya, RGB..."
+        },
+        "4": {
+          "titleFront": "Ofisga yetib borish uchun ko'p vaqt kerakmi?",
+          "titleBack": "Hech qayerga borishning hojati yo‘q - biz kompyuterni olib, to‘g‘ridan to‘g‘ri ostonangizga olib kelamiz"
+        }
+      },
+      "whatWeCanDo": {
+        "title": "Biz nimalarda boshqalardan yaxshiroqmiz?",
+        "1": {
+          "title": "Quvvatni oshirish",
+          "desc": "Kompyuteringiz vazifalariga eng maqbul qismlarni tanlaymiz",
+          "list": [
+            "video kartani yangilaymiz",
+            "yangi protsessor va asosiy platani tanlaymiz",
+            "operativ xotira hajmini oshiramiz",
+            "kompyuter sovutish tizimini yaxshilaymiz"
+          ]
+        },
+        "2": {
+          "title": "Texnik xizmat ko'rsatish",
+          "desc": "«Sog'lom» kompyuter - o'yinlar, ish va ijodda muvaffaqiyat garovi",
+          "list": [
+            "kompressor bilan professional tizim tozalashni amalga oshiramiz",
+            "termal interfeys almashtirish",
+            "maxsus suv sovutish tizimiga xizmat ko'rsatamiz",
+            "operatsion tizimni optimallashtirish va drayverlarni yangilaymiz"
+          ]
+        },
+        "3": {
+          "title": "Muammolarni bartaraf etish",
+          "desc": "Tajribali xodimlar kompyuterning to'liq diagnostikasini o'tkazadi va muammoni bartaraf etadi",
+          "list": [
+            "kompyuterning to'liq diagnostikasini o'tkazamiz",
+            "nosoz qismlarni almashtirish"
+          ]
+        },
+        "4": {
+          "title": "Dizaynni yaxshilash",
+          "desc": "Kompyuter dizayni bo'yicha barcha qiziqarli g'oyalaringizni amalga oshiramiz",
+          "list": [
+            "sizning eskizingiz bo'yicha vinil o'rnatamiz",
+            "individual ranglarda avtomobil bo'yoqlaridan foydalanamiz",
+            "professional aerografiya qilamiz",
+            "maxsus sovutish tizimini o'rnatamiz"
+          ]
+        }
+      },
+      "faq": {
+        "title": "Nima uchun Ingame'da o'zingizni rivojlantirish kerak?",
+        "1": {
+          "question": "7 yildan ortiq ish tajribasi",
+          "answer": "Bizning jamoamiz 7 yildan ortiq vaqt davomida turli xil kompyuter va noutbuklar bilan ishlash tajribasiga ega bo'lgan mutaxassislardan iborat. Biz 50 000 dan ortiq kompyuter yig'dik, bu esa foydalanuvchilarga sifat va ishlash samaradorligining mutlaqo yangi darajasini taqdim etdi. Biz ular haqida hamma narsani bilamiz. Biz uchun hal qilib bo'lmaydigan vazifalar yo'q."
+        },
+        "2": {
+          "question": "Halol narxlar va ta'mirlash muddatlari",
+          "answer": "Kompyuter yig'ish narxi kutilayotgan ishlarning murakkabligiga qarab individual hisoblanadi. Bizning narxlarimiz shaffof, biz ortiqcha qo'shimcha xizmatlarni taklif qilmaymiz va ishlarning narxini oldindan ma'lum qilamiz. Kompyuter modernizatsiyasi bir necha kun davom etadi. Ish bajarilishi bilanoq, biz sizga yaxshilangan kompyuterni hamkor transport kompaniyasi yoki kuryerlik xizmati orqali yuboramiz."
+        },
+        "3": {
+          "question": "Xizmatlarni doimiy takomillashtirish",
+          "answer": "Biz sizga faqat eng yaxshisini taqdim etish uchun xizmatlarimizni uzluksiz takomillashtirib bormoqdamiz. inGameuz doimo yuqori standartlarga amal qilishi va mijozlarining barcha istaklarini hisobga olishi bilan tanilgan. Sizning qoniqishingiz - bizning asosiy ustuvorligimiz."
+        },
+        "4": {
+          "question": "Rasmiy ishlab chiqaruvchilar",
+          "answer": "Biz faqat rasmiy ishlab chiqaruvchilar bilan hamkorlik qilamiz, shuning uchun siz har bir xarid qilingan mahsulot sifatiga ishonishingiz mumkin. Bizning modernizatsiya markazimiz Intel, AMD, NVIDIA, ASUS, MSI va boshqa ko'plab ishonchli brendlardan ehtiyot qismlar bilan jihozlangan. Bizda faqat sertifikatlangan mahsulotlar mavjud - hech qanday nuqson yo'q!"
+        },
+        "5": {
+          "question": "Ishonchli kafolat",
+          "answer": "Biz sizning ishonchingizni yuqori baholaymiz, shuning uchun inGameuz modernizatsiya markazining har bir mijozi barcha ehtiyot qismlar uchun 1 yilgacha va barcha turdagi ishlar uchun 3 oygacha kafolat oladi. Biz o'z mahsulotlarimiz va xizmatlarimiz sifatiga ishonamiz va buni rasmiy kafolat bilan tasdiqlashga tayyormiz. Agar sizda savollar yoki muammolar paydo bo'lsa, bizning mijozlarni qo'llab-quvvatlash xizmatimiz har doim sizga yordam berishga tayyor."
+        }
+      }
+    },
+    "2": {
+      "title": "Kompyuterlarga xizmat ko‘rsatish",
+      "desc": "nd a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+      "CompCarry": {
+        "title": "Kompyuteringgiz haqida qayg'uramiz",
+        "desc": "Kompyuter, boshqa har qanday mashina kabi, muntazam texnik xizmat ko‘rsatishga muhtoj. Bu butun tizimning barqaror, samarali va uzoq muddat ishlashining garovidir. O‘z shaxsiy kompyuteringiz holatini e’tiborga olmaslik kerak emas, chunki bu ortga qaytmas oqibatlarga olib kelishi mumkin.",
+        "negative": {
+          "1": "Kompyuterning xizmat muddatini qisqalashishi",
+          "2": "Kompyuterning ishlash qobiliyatini pasayishi",
+          "3": "Qimmatbaho ta’mirlash",
+          "4": "Virusli dasturlar tufayli qimmatli ma’lumotlarni yo‘qolishi",
+          "5": "Qisqa tutashuv",
+          "6": "Qizib ketish va qismlarning sinishi"
+        },
+        "selfRepair": {
+          "title": "Mustaqil ta’mirlashda yuzaga keladigan muammolar",
+          "cases": {
+            "1": "Tok bilan zararlanish xavfi",
+            "2": "Muhim ma’lumotlarni yo‘qotish",
+            "3": "Behuda vaqt yo‘qotish",
+            "4": "Kutilmagan va asossiz xarajatlar"
+          }
+        }
+      },
+      "WhyShouldRegCheck": {
+        "title": "Nima uchun texnik ko'rikdan muntazam o‘tish muhim?",
+        "desc": "INGAME’da kompyuterlarga professional texnik xizmat ko‘rsatish muammolarni tez va xavfsiz hal qilishni kafolatlaydi. Muntazam TXK tufayli siz 'sog‘lom', mahsuldor va estetik qurilmalarga ega bo‘lasiz, ular sizga uzoq yillar xizmat qiladi.",
+        "args": {
+          "1": "Zararli va foydalanilmayotgan dasturlardan xalos qiladi",
+          "2": "Kompyuter unumdorligini oshiradi (15% gacha)",
+          "3": "Vaqt, pul va asablaringizni tejaydi",
+          "4": "Xizmat muddatini uzaytiradi",
+          "5": "Kompyuterni tartibli holatda saqlaydi",
+          "6": "Komplekt qismlarining zarar yetishini oldini oladi"
+        }
+      },
+      "Plans": {
+        "title": "Xizmat ko'rsatish paketlari",
+        "desc": "Biz mijozlarimizga narx va variantlar to'plami bo'yicha optimal xizmat paketlarini taqdim etamiz. O'zingizga mos xizmatlar majmuasini tanlang yoki yordam uchun bizga murojaat qiling!",
+        "pricing": "Narxi: {price}dan boshlab",
+        "titles": {
+          "1": "Standart sovutish",
+          "2": "Maxsus sovutish",
+          "3": "Qo'shimcha xizmatlar"
+        },
+        "standard": {
+          "1": {
+            "desc": "Kengaytirilgan va eng optimal xizmat ko'rsatish paketi",
+            "list": {
+              "1": "Kompleks diagnostika",
+              "2": "Changdan tozalash",
+              "3": "Termointerfeysni almashtirish",
+              "4": "Xizmat ko'rsatish hisoboti"
+            }
+          },
+          "2": {
+            "desc": "Murakkab muammolarni hal qilish uchun to'liq xizmatlar to'plami",
+            "list": {
+              "1": "Kompleks diagnostika",
+              "2": "Changdan tozalash",
+              "3": "Operatsion tizimni qayta o'rnatish",
+              "4": "Termointerfeysni almashtirish",
+              "5": "Drayverlarni yangilash",
+              "6": "BIOS ni yangilash va sozlash",
+              "7": "Xizmat ko'rsatish hisoboti"
+            }
+          }
+        },
+        "custom": {
+          "1": {
+            "desc": "Kengaytirilgan va eng optimal xizmat ko'rsatish paketi",
+            "list": {
+              "1": "Kompleks diagnostika",
+              "2": "Changdan tozalash",
+              "3": "Operatsion tizimni qayta o'rnatish",
+              "4": "Termointerfeysni almashtirish",
+              "5": "Kontur tekshirish",
+              "6": "Sovutish suyuqligini almashtirish",
+              "7": "Termopadlarni almashtirish",
+              "8": "Xizmat ko'rsatish hisoboti"
+            }
+          },
+          "2": {
+            "desc": "Murakkab muammolarni hal qilish uchun to'liq xizmatlar to'plami",
+            "list": {
+              "1": "Kompleks diagnostika",
+              "2": "Changdan tozalash",
+              "3": "Termointerfeysni almashtirish",
+              "4": "Kontur tekshirish",
+              "5": "Sovutish suyuqligini almashtirish",
+              "6": "Termopadlarni almashtirish",
+              "7": "Radiatorlarni tozalash",
+              "8": "Rezervuar va pompani tozalash",
+              "9": "GPU/CPU suv bloklarini tozalash",
+              "10": "Drayverlarni yangilash",
+              "11": "Xizmat ko'rsatish hisoboti",
+              "12": "Operatsion tizimni qayta o'rnatish"
+            }
+          }
+        },
+        "additional": {
+          "1": {
+            "title": "Videokarta xizmati",
+            "desc": "Chang, kir, uy hayvonlarining juni, qurib qolgan termopasta va yaroqsiz holga kelgan termopadlar sovutishni sezilarli darajada yomonlashtiradi, bu esa oxir-oqibat qurilmaning qizib ketishiga va keyinchalik ishdan chiqishiga olib keladi.",
+            "list": {
+              "1": "Radiator va platani qo'lda tozalash",
+              "2": "Ventilyatorlarni moylash",
+              "3": "Termointerfeysni almashtirish",
+              "4": "Termopadlarni almashtirish"
+            }
+          }
+        }
+      },
+      "AboutService": {
+        "title": "Ingame xizmati haqida",
+        "desc": "Biz 13 yildan ortiq vaqtdan beri kompyuterlar bilan shug‘ullanamiz va ularning tuzilishini yodlab oldik. Ko‘p yillik tajribaga ega mutaxassislarimiz shaxsiy kompyuteringizning yuqori darajadagi kompleks diagnostikasini o‘tkazadilar: butlovchi qismlar va dasturlardagi nosozliklarni tozalaydilar, tuzatadilar, viruslar va keraksiz fayllarni yo‘q qiladilar, maxsus testlar o‘tkazadilar va xizmat tugaganidan keyin sizga hisobot varaqasini taqdim etadilar.",
+        "stats": {
+          "techRev": "o‘tkazilgan TXK",
+          "warranty": "uchun kafolat",
+          "w2": "yil",
+          "spec": "mutaxassislar"
+        }
+      },
+      "Steps": {
+        "title": "Texnik ko'rikni rasmiylashtirish bosqichlari",
+        "1": "Saytimizga ariza yuboring yoki bizga murojaat qiling. Biz har doim yordam berishdan mamnunmiz!",
+        "2": "Bizning menejer buyurtmani rasmiylashtirishda sizga yordam beradi va siz bilan barcha tafsilotlarni kelishib oladi",
+        "3": "Kompyuteringizni shaxsan olib keling yoki kurer orqali yuborishga buyurtma bering",
+        "4": "Servis markazimiz mutaxassislari 24 soat davomida xizmat ko‘rsatadi",
+        "5": "Kompyuterning qulay sanasi va vaqtini aniqlash uchun bizning logistik xodimimiz siz bilan bog‘lanadi"
+      }
+    },
+    "3": {
+      "title": "TRADE-IN",
+      "desc": "Eski kompyuterni chegirmali yangi kompyuterga almashtirishni xohlaysizmi? Bizda siz uchun maxsus treyd-in dasturi mavjud. Biz eskirgan shaxsiy kompyuterni INGAME’dan yangi quvvatli yechimingiz narxini hisobga olgan holda sotib olamiz!",
+      "howItWorks": {
+        "title": "BU QANDAY ISHLAYDI",
+        "steps": {
+          "1": "Baholash uchun ariza yuboring",
+          "2": "Baho oling",
+          "3": "Chegirmadan foydalaning"
+        },
+        "args": {
+          "1": {
+            "title": "Vaqtni tejash",
+            "desc": "Eski kompyuterni qabul qilish va yangisini sotib olish bir vaqtning o‘zida sodir bo‘ladi, shuning uchun xaridorlarni mustaqil ravishda izlash shart emas"
+          },
+          "2": {
+            "title": "Xavfsizlik",
+            "desc": "Bitimlar bizning ofisimizda qonunlarga muvofiq amalga oshiriladi va yangi SHKlarga kafolatlar va boshqa tegishli hujjatlar beriladi"
+          },
+          "3": {
+            "title": "Pul tejash",
+            "desc": "Siz do‘kon narxi va qurilmadan tushgan mablag‘ o‘rtasidagi farqni to‘lab, yangi quvvatli texnikani olasiz"
+          },
+          "4": {
+            "title": "Minimal xarajatlar",
+            "desc": "Yangi shaxsiy kompyuter narxi pasaytiriladi. Kerakli miqdordagi mablag‘ni to‘plash uchun kamroq vaqt sarflaysiz"
+          }
+        }
+      },
+      "KeyFeatures": {
+        "title": "INGAMEDA TRADE-INNING AFZALLIKLARI",
+        "1": {
+          "title": "SIZ TANLOV BILAN CHEKLANMAYSIZ",
+          "desc": "Treyd-inning kamchiliklariga tanlovning cheklanganligini kiritish qabul qilingan. Ya’ni, eski qurilma bilan ma’lum bir kompaniyaga murojaat qilib, uni faqat ushbu kompaniya assortimentida mavjud bo‘lganlariga yangilashingiz mumkin. INGAME misolida bu kamchilik bo‘lmaydi. Bizning assortimentimiz yangi foydalanuvchilar, ishonchli foydalanuvchilar va o‘yinchilarni qoniqtiradi. Bu kompyuterlar, shu jumladan, o‘yin, eksklyuziv, shovqinsiz. Siz tanlovda cheklanmagansiz."
+        },
+        "2": {
+          "title": "Adolatli baho",
+          "desc": "Bunday bitimlarning yana bir kamchiligi narxning bozor narxidan pastligidir. Avtomobillar bilan bog‘liq holatlarda bu haqiqatda shunday, chunki kompaniyada texnik xizmat ko‘rsatish, sotuvdan oldingi tayyorgarlik va boshqalar uchun xarajatlar paydo bo‘ladi. Kompyuterlar uchun bunday xarajatlar bo‘lmaydi. INGAME xodimlari butlovchi qismlar bozoridagi vaziyatga asoslanib, diagnostika qiladi va baho beradi."
+        }
+      },
+      "Experience": {
+        "title": "{year} YILDAN BERI BIZNI BIRINCHI QILIB QO‘YGAN NIMA?",
+        "1": {
+          "prefix": "{year} yil",
+          "longDesc": "{year} yil ichida o'yin kompyuter bozorida yetakchiga aylandik"
+        },
+        "2": {
+          "prefix": "{count} PK",
+          "longDesc": "Mijozlarimiz uchun {count} dan ortiq o'yin kompyuterlarini ishlab chiqardik"
+        },
+        "3": {
+          "prefix": "{count} ta turnir",
+          "longDesc": "INGAME texnik ko'magida {count} ta kibersport turnirini o'tkazdik"
+        },
+        "4": {
+          "prefix": "{count} ta bloger",
+          "longDesc": "Eng mashhur {count} ta YouTube blogerlari va strimerlari INGAME kompyuterini tanladilar"
+        },
+        "5": {
+          "prefix": "{count} ta klub",
+          "longDesc": "Tayyor holatda {count} ta kompyuter klubini jihozladik, lizing dasturi mavjud"
+        }
+      }
+    },
+    "4": {
+      "title": "MODING VA KASTOMIZATSIYA",
+      "desc": "Takomillashtirish uchun chegara yo‘q. Agar siz unumdor kompyuter egasi bo‘lsangiz ham, uni yanada yaxshilash uchun har doim imkoniyatlar mavjud.",
+      "orderUpg": "Apgreyd buyurma qilish",
+      "miniNav": {
+        "1": "Suv bilan sovitish",
+        "2": "Podsvetka",
+        "3": "Vinilografiya",
+        "4": "Avtomobillarni bo‘yash",
+        "5": "Aerografiya"
+      },
+      "miniServices": {
+        "1": {
+          "label": "Noyob sovutish tizimi",
+          "description": "Ko'p yillik ish tajribasi va ustalarimizning yuksak professionallik darajasi haqiqatan ham noyob suv sovutish tizimlarini yaratishga imkon beradi. Har bir SVT (suv bilan sovutish tizimi) qo'lda va har bir mijoz uchun alohida yaratiladi. Estetika va samaradorlik muvozanati hech qachon bunday yaqin bo'lmagan."
+        },
+        "2": {
+          "label": "O'z rangingizni tanlang",
+          "description": "Modernizatsiya markazimizda biz kabel-menejment qoidalarini qayta ko'rib chiqishga va kompyuterdan maksimal qulaylik bilan foydalanish uchun muqobil variant taklif qilishga tayyormiz. Albatta, vizual jihatni ham unutmasdan. Simlarni himoya qoplamasi bilan o'rash, turli rangli ulanish kabellarini o'rnatish va eng muhimi - INGAME firmasi RGB-kabellar to'plamini o'rnatish."
+        },
+        "3": {
+          "label": "Individual dizayn. Takrorlanmas sifat",
+          "description": "Sizning har qanday, hattoki eng dadil fantaziyangiz ham kompyuter korpusida o'z aksini topishi mumkin. Ustalarimiz eng murakkab va iddaoli loyihalarni yuqori aniqlik va sifat bilan bajarilishiga kafolat beradilar."
+        },
+        "4": {
+          "label": "Qismlarni eksklyuziv bo'yash",
+          "description": "Sifatni yaxshilash uchun turli sohalardan texnologiyalarni qo'llash - bu INGAME modernizatsiya markazining faoliyatidagi muhim jihatdir. Avtomobil bo'yash texnologiyasi PK korpusi ustida olib boriladigan ishlarning asosiy xususiyatlaridan biriga aylandi. Bu o'z kompyuteringizni yanada originalroq va yorqinroq qilishning ijodiy usulidir."
+        },
+        "5": {
+          "label": "Professional rasm chizish",
+          "description": "Rassomlar jamoasi kompyuter korpusi yuzasida istalgan murakkablikdagi aerografikani yaratishga tayyor. G'oyangiz, sevimli rasmingiz yoki surating qanday bo'lishidan qat'i nazar - biz buni hayotga tatbiq eta olamiz."
+        }
+      }
+    }
+  },
+  "OrderAnUpgrade": {
+    "title": "Kompyuterni kuchaytirish/ta'mirlash",
+    "steps": {
+      "outerServices": {
+        "title": "Servis",
+        "services": {
+          "1": {
+            "title": "Modernizatsiya qilish",
+            "list": [
+              "Videokartani yangilash",
+              "Protsessor va ona platani yangilash",
+              "Operativ xotira hajmini oshirish",
+              "Xotira hajmini oshirish",
+              "Firma korpusida yig'ish"
+            ]
+          },
+          "2": {
+            "title": "Muammoni bartaraf etish",
+            "list": [
+              "Kompleks diagnostika o'tkazish",
+              "Chang tozalash",
+              "Maxsus SVT (suv bilan sovutish tizimi)ni xizmat ko'rsatish",
+              "Termointerfeysni almashtirish",
+              "Videokartaga xizmat ko'rsatish",
+              "Ta'mirlash uchun yozilish"
+            ]
+          }
+        }
+      },
+      "additional": {
+        "title": "Qo'sh-cha xizmatlar",
+        "services": {
+          "1": {
+            "title": "Moslashtirish",
+            "list": [
+              "Vinil qoplash",
+              "Aerografiya qilish",
+              "Individual rangga bo'yash",
+              "RGB-yoritgich o'rnatish",
+              "Kabel-menejment qilish",
+              "Maxsus SVT o'rnatish"
+            ]
+          },
+          "2": {
+            "title": "Trade-inga topshirish",
+            "list": [
+              "Eski PK ni qiymatiga topshirish",
+              "Baholash uchun so'rov yuborish"
+            ]
+          }
+        }
+      },
+      "deadlines": {
+        "title": "Muddatlar",
+        "services": {
+          "1": {
+            "title": "Moslashtirish",
+            "list": [
+              "Kecha",
+              "2-3 kun ichida",
+              "Hafta ichida",
+              "Oy ichida",
+              "Bir oydan ko'p"
+            ]
+          },
+          "2": {
+            "title": "Byudjet",
+            "list": [
+              "1 000 000 minggacha",
+              "1 000 000 - 2 500 000 ming",
+              "3 000 000 - 6 000 000 ming",
+              "7 000 000 - 9 000 000 ming",
+              "10 000 000 mingdan ko'p"
+            ]
+          }
+        }
+      },
+      "contacts": {
+        "title": "Kontaklar",
+        "formFields": {
+          "name": "Ism *",
+          "phone": "Telefon *",
+          "custom": "Shaxsiy variant"
+        }
+      }
+    },
+    "actions": {
+      "prev": "ORQAGA",
+      "prev2": "Faqat kontakt qoldirish",
+      "btn": "Keyingi",
+      "btn2": "ARIZA YUBORISH"
+    }
+  },
+  "About": {
+    "team": {
+      "title": "Kompaniya haqida",
+      "desc": "INGAME kompaniyasi 2017 yilda tashkil etilgan. Biz NVIDIA, ASUS ROG, Cougar, Huntkey kabi mashhur texnologiya gigantlarining rasmiy hamkorlarimiz. INGAME bosh ofisi va ishlab chiqarish markazi Toshkentda joylashgan. Kompyuterlar va periferiya qurilmalari bilan jihozlangan ko'rgazma zali ham Toshkentda joylashgan. Biz O'zbekiston bo'ylab va dunyo bo'ylab kompyuterlarni yetkazib beramiz. Kompaniyamiz ham xususiy, ham yuridik shaxslar bilan ishlaydi."
+    },
+    "aboutUs": {
+      "title": "Biz haqimizda",
+      "buttonText": "Qisqacha biografiya",
+      "text": "Assalomu alaykum, men – Shahzod Shodiyev, inGame kompaniyasining asoschisiman. Men ishning barcha bosqichlaridan o'tdim: o'zim sotdim, yig'dim va mijozlarga kompyuterlarni yetkazib berdim. Buni qanday to'g'ri qilishni hech kimdan ko'ra yaxshiroq bilaman; 7 yillik ish faoliyatimiz davomida biz O'zbekistonda premium klassidagi kompyuterlarning eng yaxshi ishlab chiqaruvchilaridan biriga aylandik; Shu vaqt ichida biz kompaniya tashkil etilgan paytdan boshlab do'stlashib va birga ishlab kelayotgan kuchli hamfikrlar jamoasini to'pladik.",
+      "biographyText": "Tug‘ilgan joyi: Toshkent, O‘zbekiston.\n\uD83D\uDFE4Tug‘ilgan sanasi: 16.05.1995 yil.\nTa'lim:\n\uD83D\uDFE4Bakalavr: Telekommunikatsiya, \"Toshkent Davlat Transport Universiteti\".\n\uD83D\uDFE4Magistratura: MBA, \"O‘zbekiston Respublikasi Vazirlar Mahkamasi huzuridagi Biznes va Tadbirkorlik Oliy Maktabi\".",
+      "ourMission": {
+        "title": "Bizning vazifamiz",
+        "desc": "Geymerlar va ijodkor mutaxassislarga foydalanishdan zavq bag'ishlaydigan eng yaxshi kompyuterlarni yaratish. inGame - bu ajoyib dizayn, yuqori ishlash qobiliyati, mukammal sifat va shaxsiy xizmat"
+      }
+    },
+    "whyChooseUs": {
+      "title": "Nega bizni tanlashingiz kerak?",
+      "blocks": [
+        "O'yinlar va ijod - biz qilayotgan hamma narsaning asosidir",
+        "Bitta narsani qilish, lekin chindan ham yaxshi qilish",
+        "Doimiy takomillashtirish",
+        "Intizom va qoidalarga rioya qilish"
+      ]
+    }
+  },
+  "Errors": {
+    "invalidPhoneNumber": "Telefon raqami noto‘g‘ri.\n Iltimos, ushbu formatda\n 90 000-00-00 raqamingizni kiriting",
+    "notSelectedDeliveryType": "Buyurtmani qabul qilish usullari tanlanishi kerak",
+    "notSelectedPaymentType": "To'lov usuli tanlanishi kerak",
+    "addressShouldBeFilled": "Manzil to'ldirilishi kerak",
+    "cannotSelectCreditForConfiguration": "Konfiguratsiya uchun toʻlov usuli sifatida kreditni tanlay olmaysiz",
+    "fullNameShouldBeFilled": "To'liq ism to'ldirilishi kerak"
+  }
+}
